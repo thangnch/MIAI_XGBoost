@@ -2,7 +2,7 @@
 Demo of using XGBoost
 
 
-Video link:  https://www.youtube.com/watch?v=88rhJ3ow3Us
+Video link:  https://youtu.be/a4jzMCXkQ0U
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
